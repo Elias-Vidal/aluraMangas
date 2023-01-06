@@ -61,6 +61,11 @@
     font-size: 14px;
 }
 
+.descricao__imagem{
+    width: 80%;
+    height: 80%;
+}
+
 .botoes__item {
     margin: 0 0.5em;
 }
@@ -99,6 +104,11 @@
     .botoes__ancora:active {
         background-color: var(--azul);
         }
+
+        .descricao__imagem{
+            width: 80%;
+            height: 80%;
+        }
 }
 
 @media screen and (min-width: 1728px) {
@@ -135,6 +145,11 @@
 
     .botoes__ancora:active {
         background-color: var(--azul);
+        }
+
+        .descricao__imagem{
+            width: 80%;
+            height: 80%;
         }
 
 }
